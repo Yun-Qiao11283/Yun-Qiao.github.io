@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Honors undergraduate student at [The Ohio State University](https://math.osu.edu/), majoring in Mathematics with a minor in Computer Science (GPA: 3.98/4.00). My academic passion lies at the intersection of pure mathematics and scientific computing, specifically focusing on how abstract mathematical frameworks can resolve complex, high-dimensional challenges in real-world systems.
+I am a third-year Honors undergraduate student at [The Ohio State University](https://math.osu.edu/), majoring in Mathematics with a minor in Computer Science (GPA: 3.98/4.00). My academic passion lies at the intersection of pure mathematics and scientific computing, specifically focusing on how abstract mathematical frameworks can resolve complex, high-dimensional challenges in real-world systems. 
 
 I am actively seeking **Summer research opportunities** in Operations Research (OR), Applied Mathematics, and Quantitative Finance.
 
